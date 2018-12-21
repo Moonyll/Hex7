@@ -1,0 +1,64 @@
+﻿.rect1 {
+    width: 1020px;
+    height: 47px;
+    background: #2ECC71; /*VERT*/
+}
+
+.rect2 {
+    width: 256px;
+    height: 47px;
+    background: #2980B9; /*BLEU*/
+    margin-left: 1020px;
+    margin-top: -47px;
+}
+
+.rect3 {
+    width: 424px;
+    height: 146px;
+    background: #E74C3C; /*ROUGE FONCE*/
+}
+
+.rect4 {
+    width: 427px;
+    height: 73px;
+    background: #E67E22; /*ORANGE FONCE*/
+    margin-left: 424px;
+    margin-top: -146px;
+}
+
+.rect5 {
+    width: 425px;
+    height: 73px;
+    background: #95A5A6; /*GRIS*/
+    margin-left: 851px;
+    margin-top:-73px;
+}
+
+.rect6 {
+    width: 283px;
+    height: 73px;
+    background: #F39C12; /*ORANGE CLAIR*/
+    margin-left:424px;
+}
+
+.rect7 {
+    width: 283px;
+    height: 73px;
+    background: #16A085; /*VERT FONCE*/
+    margin-left:707px;
+    margin-top:-73px;
+}
+
+.rect8 {
+    width: 286px;
+    height: 73px;
+    background: #D25400; /*ROUGE FONCE*/
+    margin-left:990px;
+    margin-top:-73px;
+}
+
+.rect9 {
+    width: 1275px;
+    height: 193px;
+    background: #2C3E50; /*BLEU FONCE*/
+}
